@@ -18,7 +18,7 @@ Each project folder contains its own README with setup instructions, goals, and 
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| *Coming soon* | | | |
+| [gpu-orchestration](./gpu-orchestration) | Learn GPU discovery, allocation, scheduling, and multi-GPU workload management | Python, PyTorch, CUDA, Ray | 🟡 In Progress |
 
 ## Getting Started
 
